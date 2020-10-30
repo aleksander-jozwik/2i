@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+ 
+.icon-gmail:before { content: '\6d'; } /* 'm' */
+.icon-comment:before { content: '\e718'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-desktop:before { content: '\f108'; } /* '' */
+.icon-youtube-play:before { content: '\f16a'; } /* '' */
+.icon-google:before { content: '\f1a0'; } /* '' */
+.icon-users:before { content: '👥'; } /* '\1f465' */
+.icon-folder-open:before { content: '📂'; } /* '\1f4c2' */
+.icon-book:before { content: '📕'; } /* '\1f4d5' */
